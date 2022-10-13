@@ -17,8 +17,9 @@ function App() {
         >
           I used my weiner to make this app. <br />
           ericpolley.com <br />
+          weiner weiner weiner weiner weiner <br />
           I'm like a fuckin' genius and shit dawg <br /> 
-          This is my fourth update to this site!
+          This is my sixth update to this site!
         </a>
       </header>
     </div>
