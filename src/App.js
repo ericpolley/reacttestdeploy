@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          I used my weiner to make this app. <br />
           ericpolley.com <br />
-          I'm like a fuckin' genius and shit dawg <br /> This is my fourth update to this site!
+          I'm like a fuckin' genius and shit dawg <br /> 
+          This is my fourth update to this site!
         </a>
       </header>
     </div>
